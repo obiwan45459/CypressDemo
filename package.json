@@ -1,0 +1,23 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obiwan45459/CypressDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obiwan45459/CypressDemo/issues"
+  },
+  "homepage": "https://github.com/obiwan45459/CypressDemo#readme"
+}
